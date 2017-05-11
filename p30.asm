@@ -1,4 +1,4 @@
-.386P  ; type of processor
+.686P  ; type of processor
 
 .model flat, stdcall ; for windows - flat
 
